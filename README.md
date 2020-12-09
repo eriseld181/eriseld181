@@ -5,7 +5,7 @@ Strong Tech (Master Degree in Computer Science +3 years as a Digital marketer fo
 
 Web development skills:
 HTML 5| CSS | Node.js | Express.js | MongoDB | React.js | Redux & Hooks | Bootstrap | Azure | Heroku | SQL Server | Passport.js | Github | REST API | PostgreSQL | Java SE 8.
-
+<br/>
 Other skills:
 WordPress | Wix | Photoshop | Video Editing.
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
