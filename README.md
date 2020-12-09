@@ -1,4 +1,5 @@
 ### Hi there 👋
+ I'm Eriseld, a Full Stack Web Developer with a passion for building professional web applications. I believe that integrity and dedication are key values for being successful at work, and I uphold those values every day.
 
 <!--
 **eriseld181/eriseld181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
