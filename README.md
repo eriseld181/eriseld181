@@ -1,5 +1,13 @@
 ### Hi there 👋
- I'm Eriseld, a Full Stack Web Developer with a passion for building professional web applications. I believe that integrity and dedication are key values for being successful at work, and I uphold those values every day.
+ I'm Eriseld, a Full Stack Web Developer with a passion for building professional web applications. I believe that integrity and dedication are key values for being successful at work, and I uphold those values every day. Ultimately, I am striving to join a team where I can continually develop my skills while contributing to an encouraging environment where my entire team can prosper.
+
+Strong Tech (Master Degree in Computer Science +3 years as a Digital marketer for international customers) and student at Strive for +6 months.
+
+Web development skills:
+HTML 5| CSS | Node.js | Express.js | MongoDB | React.js | Redux & Hooks | Bootstrap | Azure | Heroku | SQL Server | Passport.js | Github | REST API | PostgreSQL | Java SE 8.
+
+Other skills:
+WordPress | Wix | Photoshop | Video Editing.
 
 <!--
 **eriseld181/eriseld181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
